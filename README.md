@@ -44,3 +44,8 @@ Link to course [found here](https://www.udemy.com/the-full-stack-web-development
 * CSS Basic Styling - Project on Basic Styling
 * Positioning & Background Images - Project on Images
 * Pseudo Classes - Project on Pseudo Classes
+* Colors, Backgrounds & Gradients - Project on Color Backgrounds
+* Text & Box Shadows - Project Text Shadows
+* Transitions & Animation - Project on Animations
+* Columns & Flexbox - Project in Flexbox
+* CSS3 - Project Using Dropdown Menu
