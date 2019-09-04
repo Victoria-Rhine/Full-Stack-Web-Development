@@ -39,7 +39,7 @@ Link to course [found here](https://www.udemy.com/the-full-stack-web-development
 * Geolocation - Project on Geolocation
 * Project MyNote - A HTML5 App
 
-## Section 4: Styling With CSS3
+### Section 4: Styling With CSS3
 * Getting Started With CSS
 * CSS Basic Styling - Project on Basic Styling
 * Positioning & Background Images - Project on Images
