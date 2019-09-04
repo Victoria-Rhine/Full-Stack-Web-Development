@@ -49,3 +49,18 @@ Link to course [found here](https://www.udemy.com/the-full-stack-web-development
 * Transitions & Animation - Project on Animations
 * Columns & Flexbox - Project in Flexbox
 * CSS3 - Project Using Dropdown Menu
+
+### Section 5: Twitter Bootstrap Programming
+* Getting Started With Bootstrap
+* Setup, Templates, and Navbar - Project using Navbar
+* Typography, Forms, and Tables - Project using Forms and Tables
+* CSS Components - Project Using Components - Part A
+* CSS Components - Project Using Components - Part B
+* Grid System - Project Using Grid System
+* Modal, Dropdown, Tabs & Tootip - Project on Javascript Plugins - Part A
+* Collapse, Accordian, and Carousel
+* Project Custom Bootstrap Theme - Part A
+* Project Custom Bootstrap Theme - Part B
+* Project Custom Bootstrap Theme - Part C
+
+
